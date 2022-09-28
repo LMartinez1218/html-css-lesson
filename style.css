@@ -1,0 +1,16 @@
+
+
+body{
+    background-color: cadetblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav { background-color: indian
+    red;}
+
+    .menu-options{
+        list-style-type: none;
+    }
+    .nav-link{text-decoration: dotted; color:palevioletred}
+
+    .nav-link:hover{color:greenyellow}
